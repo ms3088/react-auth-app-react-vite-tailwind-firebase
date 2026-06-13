@@ -4,15 +4,16 @@
 This project demostrates authentication in React using Firebase Google Login, protected routes, localStorage session persistance, and automatic session expiration using TTL (Time to Live). 
 
 ## Features
+
 -React + Vite setup
 -Tailwind CSS Integration
-Google Authentication using Firebase
-Protected Dashboard Route
-User data stored in localStorage
-Session persitance after page refresh.
-Automatic session expiration after 24 hours(TTL)
-Logout functionality
-Route redirection for unauthorized users.
+-Google Authentication using Firebase
+-Protected Dashboard Route
+-User data stored in localStorage
+-Session persitance after page refresh.
+-Automatic session expiration after 24 hours(TTL)
+-Logout functionality
+-Route redirection for unauthorized users.
 
 ## Tech Stack
 
