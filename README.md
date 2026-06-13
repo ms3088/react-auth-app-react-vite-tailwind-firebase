@@ -29,6 +29,8 @@ Route redirection for unauthorized users.
 
 ### 1. Clone Repository
 [git clone https://github.com/your-username/react-auth-assignment.git](https://github.com/ms3088/react-auth-app-react-vite-tailwind-firebase.git)
+
+
 cd react-auth-assignment
 
 
